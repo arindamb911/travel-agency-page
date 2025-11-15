@@ -74,13 +74,9 @@ Three <figure> sections with images + captions
 
 All five anchors linked to FreeCodeCamp with target="_blank"
 
-🌐 Live Demo
+🌐 Live Demo  
+Coming soon! (GitHub Pages will be added after I upload the project.)
 
-(After enabling GitHub Pages, your link will appear here!)
-
-Format will look like:
-
-https://your-username.github.io/travel-agency-page
 
 🛠️ Tech Used
 
